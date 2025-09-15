@@ -22,7 +22,7 @@ if __name__ == "__main__":
     main()
 ~~~
 # OUTPUT:
-<img width="1917" height="1015" alt="{612D4E6A-EEED-40C3-8FFB-7FE4C7D3809A}" src="https://github.com/user-attachments/assets/fcc1e9d0-de9e-4616-a7bd-72f5305121f0" />
+<img width="1919" height="1079" alt="Screenshot 2025-09-15 104300" src="https://github.com/user-attachments/assets/324a3814-4099-4e03-bbd8-e349f7466f8a" />
 
 # RESULT:
 the above program is executed in Implementation of Pseudorandom Number Generation Using Standard library
